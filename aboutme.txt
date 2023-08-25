@@ -1,1 +1,4 @@
-
+Name: Kelly Noella SOTA
+Student number: 123324
+Project: A web-based Orphanage Food Donation Platform using KNN Algorithm
+Supervisor: Benjamin Mundama
